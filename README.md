@@ -6,3 +6,5 @@ it is a description of me, my passions and my project. I programmed it in html a
 I make this website to show my projects and passions(and also because an npc on pixl gave me this quest :]).It's a portofolio that I plan to make bigger year after year
 as I make new project and live new adventures.You can already scroll trough it here : https://cosmic-blini-c4b3f7.netlify.app/ . First, I just did it for the quest but during
 the developement of it I really like making it and now I want to make it better.
+
+You can scroll trough it and click on the projects box at the top of the page to go on a page focused on my projects
